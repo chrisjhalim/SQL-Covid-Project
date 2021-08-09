@@ -12,5 +12,5 @@ The datasets attached in the repository is an Excel-modified dataset from the we
 The analysis, cleaning, and modification of this data is done in SQL. CovidProject file contains the SQL code for this project.
 
 ## Data Visualization
-After I have finished analyzing the data in SQL, I took some of the SQL-analyzed results and put it into Tableau. Tableau Table 1.CSV to Tableau Table 4.CSV are the files that I created from SQL for the purpose of data visualization in Tableau.
+After I have finished analyzing the data in SQL, I took some of the SQL-analyzed results and created 5 new spreadsheets. Tableau Table 1.XLSX to Tableau Table 5.XLSX are the Excel spreadsheets that I created from SQL for the purpose of data visualization in Tableau.
   ##### Link to Tableau Visualization: https://public.tableau.com/views/CovidProject_16271851293520/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
