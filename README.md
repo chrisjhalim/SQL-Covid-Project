@@ -2,7 +2,7 @@
 This is a project tabulating Covid-19 pandemic data from the start of the pandemic (around March 2020) up until July 23, 2021. I used SQL to modify the dataset and Tableau to visualize the data.
 
 ## Datasets
-The original data set is taken from the website "Our World in Data". It is updated daily. However, for the sake of this project, the data is displayed only up to July 23, 2021.
+The original data set is taken from the website "Our World in Data". It is updated daily. However, for the sake of this project, I only used the original database up until July 23, 2021.
   ##### Link to the original dataset: https://covid.ourworldindata.org/data/owid-covid-data.csv
 
 
